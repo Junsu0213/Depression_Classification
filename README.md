@@ -22,15 +22,16 @@ Here is a simple repo for classifying MDD and normal controls via resting-state 
 
 ## 2. Directory structure
 ```bash
-├── config
+├── Config
 │   └── config.py
-├── evaluation
+├── Evaluation
 │   └── k_fold.py
-├── loader
+├── Loader
 │   └── load.py
-├── model
+├── Model
 │   ├── MLClassifier.py
 │   └── ml_grid.py
+├── main.py
 └── requirements.txt
 ```
 
